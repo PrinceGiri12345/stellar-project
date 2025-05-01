@@ -30,6 +30,9 @@ To incentivize eco-friendly habits by making recycling transparent, verifiable, 
 
 ### Contract Address: CCZQJZSBVXWXYWQG7SQ676IEYKB65ZZ3R7HUOM3U36SD22PYBDHSAXN6
 
+![image](https://github.com/user-attachments/assets/83db9ada-a8c5-4c8b-a5ae-f10ded725386)
+
+
 ### 1. `log_recycling(user, material, weight_kg)`
 - Logs a recycling event and rewards points.
 - 10 points per kilogram recycled (can be adjusted).
